@@ -493,6 +493,7 @@ fieldset[disabled] .btn-success.active {
 }
 .left{
   text-align: left;
+  font-size: 20px;
 }
 #skipnav a {
   padding: 6px;
