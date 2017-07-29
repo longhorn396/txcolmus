@@ -492,7 +492,7 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 .left{
-  float: left;
+  text-align: left;
 }
 #skipnav a {
   padding: 6px;
