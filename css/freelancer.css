@@ -305,7 +305,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: black;
 }
 .btn-outline {
   color: white;
@@ -490,6 +490,9 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+.left{
+  float: left;
 }
 #skipnav a {
   padding: 6px;
