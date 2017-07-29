@@ -182,7 +182,7 @@ section h2 {
 }
 section.success {
   background: #FFD712;
-  color: white;
+  color: black;
 }
 @media (max-width: 767px) {
   section {
@@ -513,7 +513,4 @@ fieldset[disabled] .btn-success.active {
 }
 div#maincontent {
   outline: none;
-}
-.success {
-  color: black;
 }
